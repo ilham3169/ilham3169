@@ -9,4 +9,4 @@
 
 ## About me
 
-Hi there 👋. I’m Ilham Yagubzade, Hard-working university student with a strong passion for technology and innovations. I have 3 years of experience Python and 6 months of experience HTML/CSS and one-on-one instruction. I am eager to bring this knowledge of the academic carrier and break into the technology industry.
+Hi there 👋. I’m Ilham Yagubzade, Hard-working university student with a strong passion for technology and innovations. I have 3 years of experience in Python, 6 months of experience in HTML/CSS and one-on-one instruction, and finally 1 year of experience on ROS2 - Robot Operating System.  I am eager to bring this knowledge to my academic career and break into the technology industry.
