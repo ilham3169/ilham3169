@@ -9,4 +9,7 @@
 
 ## About me
 
-Hi there 👋. I’m Ilham Yagubzade, Hard-working university student with a strong passion for technology and innovations. I have 3 years of experience in Python, 6 months of experience in HTML/CSS and one-on-one instruction, and finally 1 year of experience on ROS2 - Robot Operating System.  I am eager to bring this knowledge to my academic career and break into the technology industry.
+Hi there 👋. I’m Ilham Yagubzade, I have a total of 5+ years of experience in programming, including Python (FastAPI), C++ (competitive
+programming), HTML/CSS, React, and Electron.js. Additionally, I have 1 year of experience with ROS2 and
+beginner-level skills in Android development. Passionate about technology and innovation, I am eager to
+apply my knowledge in academia and the tech industry.
